@@ -25,9 +25,7 @@
   <a href="https://instagram.com/mo7m_d__010" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
- <a href="https://wa.me/YOUR_NUMBER" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="50" />
-  </a>
+
   <a href="https://linkedin.com/in/mohamed-walid-15a5a32a9" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
@@ -45,8 +43,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoWalid-7&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoWalid-7&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MoWalid-7&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoWalid-7&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -78,7 +76,7 @@
     <img src="https://img.shields.io/badge/GitHub-MoWalid--7-blue?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://facebook.com/YOUR_USERNAME">
+  <a href="https://facebook.com/mohamed.walid.214744">
     <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
   </a>
 
