@@ -31,7 +31,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo7m_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-walid-15a5a32a9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@x7c0dex0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mo7m_dhelal) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo7m_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-walid-15a5a32a9)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mo7m_dhelal) 
 
 
 
