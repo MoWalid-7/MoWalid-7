@@ -23,6 +23,32 @@
   </svg>
 </a>
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Mohamed+Walid;I+Wish+to+be+a+Penetration+Tester;%2F*+print(%22F-Society%22)+*%2F)](https://git.io/typing-svg)
+# 💫 About Me:
+🏫 I'm currently studying in ... Delta Higher Institute for Management Information Systems, Egypt<br>🌱 I’m currently learning... eJPTv2<br>⚡ I’m looking to hunting on... laravel developer<br>🔭 I’m currently working on... Not working
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo7m_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-walid-15a5a32a9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@x7c0dex0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mo7m_dhelal) 
+
+
+
+<div align="center">
+  
+  <!-- Default Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake.svg" />
+  </picture>
+
+  
+
+
+
+
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
