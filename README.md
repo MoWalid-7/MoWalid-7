@@ -19,9 +19,9 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,insomnia" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
 </p>
----
+
 
 ## 🤝 Let’s Connect!
 <p align="center">
