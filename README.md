@@ -64,7 +64,8 @@
   </a>
   </a>
   <a href="https://instagram.com/mo7m_d__010" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+    <img src="https://img.shields.io/badge/instagram-Profile-blue?style=for-the-badge&logo=instagram" />
+    <!-- <img src="https://skillicons.dev/icons?i=instagram" height="50" /> -->
   </a>
 
   <a href="https://linkedin.com/in/mohamed-walid-15a5a32a9" target="_blank">
