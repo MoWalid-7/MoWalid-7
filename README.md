@@ -69,7 +69,8 @@
   </a>
 
   <a href="https://linkedin.com/in/mohamed-walid-15a5a32a9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+     <img src="https://img.shields.io/badge/linkedin-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <!-- <img src="https://skillicons.dev/icons?i=linkedin" height="50" /> -->
   </a>
  
 </p>
