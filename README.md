@@ -17,6 +17,12 @@
 
 ---
 
+<a href="https://github.com/MoWalid-7" target="_blank">
+  <svg width="40" height="40">
+    <!-- رمز ثعبان متحرك -->
+  </svg>
+</a>
+
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
