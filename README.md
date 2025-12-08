@@ -19,38 +19,8 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,insomnia" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoWalid-7&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoWalid-7&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🔥 Streak Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoWalid-7&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoWalid-7&theme=dracula&row=1&column=6" />
-</p>
-
----
-
-## 🎨 Custom Image Section
-<p align="center">
-  <img src="https://i.ibb.co/jV8nV2Z/coding.gif" width="350" alt="Coding"/>
-</p>
-
 ---
 
 ## 🤝 Let’s Connect!
