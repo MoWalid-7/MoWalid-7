@@ -17,23 +17,6 @@
 
 ---
 
-## 🔥 Social Media
-<p align="center">
-  <a href="https://facebook.com/mohamed.walid.214744" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" />
-  </a>
-  <a href="https://instagram.com/mo7m_d__010" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-
-  <a href="https://linkedin.com/in/mohamed-walid-15a5a32a9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  
-</p>
-
----
-
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
@@ -79,10 +62,15 @@
   <a href="https://facebook.com/mohamed.walid.214744">
     <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
   </a>
-
-  <a href="https://wa.me/YOUR_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
+  <a href="https://instagram.com/mo7m_d__010" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohamed-walid-15a5a32a9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+ 
 </p>
 
 ---
