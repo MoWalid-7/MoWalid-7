@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/0M7F57b/github-banner.gif" width="100%" alt="Banner"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Mohamed+Walid;I+Wish+to+be+a+Penetration+Tester;%2F*+print(%22F-Society%22)+*%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+,++I`m+Mohamed+Walid..;+Welcome+to+my+page:)](https://git.io/typing-svg)
 
 <h3 align="center">Backend Developer | PHP & Laravel </h3>
 
