@@ -1,59 +1,30 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.ibb.co/0M7F57b/github-banner.gif" width="100%" alt="Banner"/>
+<h1 align="center">Hi 👋, I'm Mohamed Walid</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowalid-7&label=Profile%20views&color=0e75b6&style=flat" alt="mowalid-7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mowalid-7" alt="mowalid-7" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/mo7m_dhelal" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mo7m_dhelal?logo=twitter&style=for-the-badge" alt="https://x.com/mo7m_dhelal" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/mo7m_dhelal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mo7m_dhelal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-walid-15a5a32a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-walid-15a5a32a9/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mohamed.walid.214744/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.walid.214744/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mo7m_d__010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mo7m_d__010/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mohamedwalid-200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mohamedwalid-200" height="30" width="40" /></a>
+<a href="https://discord.gg/mo7m_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mo7m_d" height="30" width="40" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+,++I`m+Mohamed+Walid..;+Welcome+to+my+page:)](https://git.io/typing-svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Backend Developer | PHP & Laravel </h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Mohamed Walid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohamed Walid" /></a><a href="https://ko-fi.com/Mohamed Walid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Mohamed Walid" /></a></p><br><br>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mowalid-7&show_icons=true&locale=en&layout=compact" alt="mowalid-7" /></p>
 
-# 💫 About Me:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mowalid-7&show_icons=true&locale=en" alt="mowalid-7" /></p>
 
-🏫 I'm currently studying in ... Delta Higher Institute for Management Information Systems, Egypt<br>
-- 🌱 Currently learning: **Laravel, OOP, Git, MySQL**
-- 🧠 Working on: **Full ERP system + HR + Accounting**
-- 💬 Ask me about: **PHP, Laravel, Git, APIs, MySQL**
-- 🎯 Goal: Become a senior backend engineer  
-- ⚡ Fun Fact: I improve every single day — even 1% counts.
-- 🔭 I’m currently working on... Not working.
-
----
-
-<a href="https://github.com/MoWalid-7" target="_blank">
-  <svg width="40" height="40">
-    <!-- رمز ثعبان متحرك -->
-  </svg>
-</a>
-
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo7m_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-walid-15a5a32a9) [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/in/mo7m_d__010)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mo7m_dhelal) [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://facebook.com/in/mohamed.walid.214744)
-
-
-
-<div align="center">
-  
-  <!-- Default Theme -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoWalid-7/MoWalid-7/output/github-snake.svg" />
-  </picture>
-
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,html,css,js,postman" />
-</p>
-
-
-
-
----
-
-<p align="center">
-  ⭐ **If you like my profile, don't forget to star my repositories!**
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mowalid-7&" alt="mowalid-7" /></p>
